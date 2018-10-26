@@ -1,0 +1,168 @@
+#+OPTIONS: toc:nil num:nil 
+#+REVEAL_ROOT: ../reveal.js
+#+latex_class: beamer
+#+latex_class_options: [15pt]
+#+latex_header: \usetheme{Warsaw}
+#+latex_header: \usecolortheme{beetle}
+#+REVEAL_THEME: Black
+#+REVEAL_TRANS: Fade
+#+REVEAL_HLEVEL: 2
+#+TITLE:Impact of Technology
+#+AUTHOR:Zaim Waqar
+* Shopping
+  :PROPERTIES:
+  :reveal_background_trans: slide
+  :reveal_background: ./shopping.jpg
+  :END:
+
+** Advantages
+  :PROPERTIES:
+  :reveal_background_trans: slide
+  :reveal_background: #00ff26
+  :END:
+
+*** The Credit/Debit card
+  :PROPERTIES:
+  :reveal_background_trans: slide
+  :reveal_background: #00ff26
+  :END:
+
+The Credit/Debit card erases the need for worry about change and is more convenient in comparison to cash.
+*** Online shopping 
+  :PROPERTIES:
+  :reveal_background_trans: slide
+  :reveal_background: #00ff26
+  :END:
+
+Online Shopping sites such as Ebay and Amazon makes shopping for non-food items Immensely convenient as one does not need to physically go to a store.
+** Disadvantages
+  :PROPERTIES:
+  :reveal_background_trans: slide
+  :reveal_background: #ff1000
+  :END:
+
+*** Specific items
+  :PROPERTIES:
+  :reveal_background_trans: slide
+  :reveal_background: #ff1000
+  :END:
+
+Due to the convenience of online shopping, the demand for high street decreases, causing high street shops that sell specific items to close.
+*** Monopolisation
+  :PROPERTIES:
+  :reveal_background_trans: slide
+  :reveal_background: #ff1000
+  :END:
+
+Because of early resturant chains reaping the advantage of shipping technology, Newer, local resturants are unable to compete with the global one's
+* Working
+  :PROPERTIES:
+  :reveal_background_trans: slide
+  :reveal_background: ./work.jpg
+  :END:
+
+** Advantages
+  :PROPERTIES:
+  :reveal_background_trans: slide
+  :reveal_background: #00ff26
+  :END:
+
+*** Communication
+  :PROPERTIES:
+  :reveal_background_trans: slide
+  :reveal_background: #00ff26
+  :END:
+
+Because of programs like slack, and presentation software such as reveal.js (which was used to make this presentation), expressing one's ideas is incredibly easy.
+*** Convenience
+  :PROPERTIES:
+  :reveal_background_trans: slide
+  :reveal_background: #00ff26
+  :END:
+
+Through the creation of the internet, working for someone in a distant area is incredibly easy.
+** Disadvantages
+  :PROPERTIES:
+  :reveal_background_trans: slide
+  :reveal_background: #ff1000
+  :END:
+
+*** Distraction
+  :PROPERTIES:
+  :reveal_background_trans: slide
+  :reveal_background: #ff1000
+  :END:
+
+Despite both advantages being related to the internet, the internet isn't always good. Social media creates a massive dent in one's workflow, as it distracts one from the task at hand
+*** Unemployent
+  :PROPERTIES:
+  :reveal_background_trans: slide
+  :reveal_background: #ff1000
+  :END:
+
+Day by day, there is a new technological innovation, such innovation may have the ability to replace human jobs.
+* Socializing
+  :PROPERTIES:
+  :reveal_background_trans: slide
+  :reveal_background: ./socializing.jpg
+  :END:
+
+** Advantages
+  :PROPERTIES:
+  :reveal_background_trans: slide
+  :reveal_background: #00ff26
+  :END:
+
+*** Speed
+  :PROPERTIES:
+  :reveal_background_trans: slide
+  :reveal_background: #00ff26
+  :END:
+
+Going on to a Social media network is much faster than going to someone else's house
+*** Distance
+  :PROPERTIES:
+  :reveal_background_trans: slide
+  :reveal_background: #00ff26
+  :END:
+
+If two people are in areas with a long distance between them (they could be in different countries for instance), social media is the only cheap option for socialization.
+** Disadvantages 
+  :PROPERTIES:
+  :reveal_background_trans: slide
+  :reveal_background: #ff1000
+  :END:
+
+*** Impersonation
+  :PROPERTIES:
+  :reveal_background_trans: slide
+  :reveal_background: #ff1000
+  :END:
+
+There is a Chance that an online friend, not met physically, isn't actually of the age they say to be, or even the person they say to be.
+*** Interaction 
+  :PROPERTIES:
+  :reveal_background_trans: slide
+  :reveal_background: #ff1000
+  :END:
+
+    Social media is useful for quick conversations but not for more important events. Trying to use it for such make interactions not seem genuine
+* Entertainment
+  :PROPERTIES:
+  :reveal_background: ./entertainment.jpg
+  :reveal_background_trans: slide
+  :END:
+
+** Advantages
+  :PROPERTIES:
+  :reveal_background_trans: slide
+  :reveal_background: #00ff26
+  :END:
+
+*** Replayability
+  :PROPERTIES:
+  :reveal_background_trans: slide
+  :reveal_background: #00ff26
+  :END:
+
+  
